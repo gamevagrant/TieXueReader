@@ -36,6 +36,7 @@
     self.bookNameLabel.text = data.bookName;
     self.authorLabel.text = data.author;
     self.flagNew.hidden = data.lastUpdateTime>data.chapterListlastUpdateTime?NO:YES;
+    
 
     
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
