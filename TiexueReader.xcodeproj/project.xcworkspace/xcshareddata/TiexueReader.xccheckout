@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E08BB83C-68BD-41D5-9E1B-509EEC6197D8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiexueReader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80FE4C1D-AEF9-4292-8A52-69C7B4724A0A</key>
+		<string>https://server-vss.tx-company.tiexue.net/svn/source/tiexue/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TiexueReader/TiexueReader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80FE4C1D-AEF9-4292-8A52-69C7B4724A0A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>80FE4C1D-AEF9-4292-8A52-69C7B4724A0A</key>
+		<string>https://server-vss.tx-company.tiexue.net/svn/source</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://server-vss.tx-company.tiexue.net/svn/source/tiexue/ios/TiexueReader/TiexueReader.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80FE4C1D-AEF9-4292-8A52-69C7B4724A0A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80FE4C1D-AEF9-4292-8A52-69C7B4724A0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SVNProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
