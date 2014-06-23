@@ -39,6 +39,7 @@
     
 
     
+    
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
         NSURL *url = [NSURL URLWithString:data.frontCoverUrl];
         UIImage *image = [TXAppUtils getImageFromCacheWithURL:url];
